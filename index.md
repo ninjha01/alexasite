@@ -1,16 +1,18 @@
 ## Alexa Reilly, Doula
-![KYL00061_small](https://user-images.githubusercontent.com/102490707/160511739-78fe4220-761e-41bb-9b07-7c4b25a05179.jpg)
 
-###Snapshot:
-DONA Trained, working towards certification
-Bilingual English/Spanish
-Offering free birth doula services 
-Fully up-to-date on COVID vaccines
-B.A. Tufts University
+![](https://user-images.githubusercontent.com/102490707/160511739-78fe4220-761e-41bb-9b07-7c4b25a05179.jpg | width=100)
+### Snapshot:
+- DONA Trained, working towards certification
+- Bilingual English/Spanish
+- Offering free birth doula services 
+- Fully up-to-date on COVID vaccines
+- B.A. Tufts University
 
 
 
-### Markdown
+### What is a birth doula?
+
+Birth doulas offer professional, non-medical support to birthing people during their labor experience, and in other parts of the perinatal period. What a doula does for you is dependent on YOU and what you are looking for. We can help you advocate for yourself to medical staff if you ever feel rushed into making a decision about your health. We can support you with massage or maintaining your breathing rhythm while in labor. We can encourage your partner or another family member or friend in the delivery room when they are feeling overwhelmed by the experience. And we can stay with you, listening and responding to your needs for hours while you are in labor. To find out more about doulas, check out: https://www.dona.org/what-is-a-doula/
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
