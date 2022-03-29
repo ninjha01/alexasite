@@ -1,8 +1,14 @@
-## Welcome to Alexa's site
+## Alexa Reilly, Doula
+![KYL00061_small](https://user-images.githubusercontent.com/102490707/160511739-78fe4220-761e-41bb-9b07-7c4b25a05179.jpg)
 
-You can use the [editor on GitHub](https://github.com/ninjha01/alexasite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###Snapshot:
+DONA Trained, working towards certification
+Bilingual English/Spanish
+Offering free birth doula services 
+Fully up-to-date on COVID vaccines
+B.A. Tufts University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
