@@ -1,5 +1,7 @@
 ## Bio
 
+<!-- [¡Read this en español!](./es) -->
+
 I am a new birth doula excited to be serving the greater Boston area! I recently completed a DONA doula training course and am working towards fulfilling the remaining DONA certification requirements. Since I am a new doula, I am currently offering my services for **FREE**.
 
 - DONA trained, working towards certification
