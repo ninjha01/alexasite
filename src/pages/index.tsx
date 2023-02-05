@@ -41,8 +41,11 @@ const Hero = () => {
               <h1 className="bg-gradient-to-r from-teal-400 to-blue-500 bg-clip-text text-4xl font-bold tracking-tight text-transparent sm:text-6xl">
                 Alexa Reilly
               </h1>
-              <p className="mt-6 text-2xl leading-8 text-gray-600">
+              <p className="mt-6 text-2xl leading-8 text-zinc-600">
                 Medical Student at Kaiser Permanente
+              </p>{" "}
+              <p className="mt-4 text-lg leading-8 text-zinc-400">
+                Interested in Neo-natology, OB/GYN, and Family Medicine
               </p>
             </div>
           </div>
@@ -88,10 +91,15 @@ const ContentSection = () => {
         </div>
         <div className="relative z-10 mx-auto max-w-prose text-base lg:mx-0 lg:max-w-5xl lg:pr-72">
           <p className="text-lg text-gray-500">
-            Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum
-            urna sed consectetur neque tristique pellentesque. Blandit amet, sed
-            aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel
-            porttitor vitae ut. Amet vitae fames senectus vitae.
+            {`I received my B.A. from Tufts University in 2019, with a double major in biology and international relations. After graduating, I became interested in pursuing a career in healthcare and have since been working in public health research at Massachusetts General Hospital. This job allowed me to conduct one-on-one interviews in both English and Spanish with a huge range of amazing people who were receiving care at Mass General Brigham. The experience fortified my interest in learning about the unique story of each person with whom I spoke. Though I was working on great research that will help patients at Mass General Brigham in the future, I found myself wanting to connect with the people with whom I was working more deeply and to directly serve them through the difficult health situations that they described, rather than just collecting data for research.`}
+            <p></p>
+            {`As a medical student, I am passionate about providing comprehensive
+          care to women and families throughout their lives. I am particularly
+          interested in the fields of obstetrics and gynecology, neonatology,
+          and family medicine. I believe that these specialties are key to
+          providing holistic and compassionate care for patients. I am excited
+          to explore and gain expertise in these areas, both in the classroom
+          and in the clinical setting.`}
           </p>
         </div>
         <div className="lg:grid lg:grid-cols-2 lg:items-start lg:gap-8">
