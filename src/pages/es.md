@@ -1,3 +1,8 @@
+---
+layout: ../layouts/layout.astro
+title: "Hello, World!"
+---
+
 ## Biografía
 
 [Read this in English!](./)
