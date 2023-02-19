@@ -1,0 +1,47 @@
+---
+import type { CollectionEntry } from "astro:content";
+import BaseHead from "../components/BaseHead.astro";
+import Footer from "../components/Footer.astro";
+import Header from "../components/Header.astro";
+
+type Props = CollectionEntry<"blog">["data"];
+
+const { title, description, heroImage } = Astro.props;
+const aStyles = ["text-teal-400", "underline"]
+  .map((s) => `prose-a:${s}`)
+  .join(" ");
+
+const pStyles = ["text-zinc-900", "font-serif"]
+  .map((s) => `prose-p:${s}`)
+  .join(" ");
+const imgStyles = ["rounded-xl"].map((s) => `prose-img:${s}`).join(" ");
+const hStyles = ["text-cyan-500", "pb-4"]
+  .map((s) => `prose-headings:${s}`)
+  .join(" ");
+
+const strongStyles = ["text-teal-400"]
+  .map((s) => `prose-strong:${s}`)
+  .join(" ");
+
+const proseStyles = [aStyles, pStyles, imgStyles, hStyles, strongStyles].join(
+  " "
+);
+---
+
+<html lang="en">
+  <head>
+    <BaseHead title={title} description={description} />
+  </head>
+
+  <body class="max-w-xl mx-auto px-6">
+    <Header />
+    <main class="prose">
+      <article class={proseStyles}>
+        <h1 class="title">{title}</h1>
+        <hr />
+        <slot />
+      </article>
+    </main>
+    <Footer />
+  </body>
+</html>
