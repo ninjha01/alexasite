@@ -10,7 +10,7 @@ I am a new birth doula excited to be serving the greater Boston area! I recently
 - Fully up-to-date on COVID vaccines
 - B.A. Tufts University
 
-<img src="./assets/img/hero_1.jpg" alt="Hero Image 1" />
+<img src="/assets/img/hero_1.jpg" alt="Hero Image 1" />
 
 ### My Service
 
@@ -18,13 +18,13 @@ I offer two prenatal appointments (approximately 2 hours each), support during l
 
 I am currently seeking clients with due date (40 weeks) on or before May 5, due to limits on my availability at the very end of May. I want to be sure that if you go past your due date, I'll still be around to support you!
 
-<img src="./assets/img/hero_2.jpg" alt="Hero Image 2" />
+<img src="/assets/img/hero_2.jpg" alt="Hero Image 2" />
 
 ### What is a birth doula?
 
 Birth doulas offer professional, non-medical support to birthing people during their labor experience, and in other parts of the perinatal period. What a doula does for you is dependent on YOU and what you are looking for. We can help you advocate for yourself to medical staff if you ever feel rushed into making a decision about your health. We can support you with massage or maintaining your breathing rhythm while in labor. We can encourage your partner or another family member or friend in the delivery room when they are feeling overwhelmed by the experience. And we can stay with you, listening and responding to your needs for hours while you are in labor. To find out more about doulas, check out: [What is a Doula?](https://www.dona.org/what-is-a-doula/)
 
-<img src="./assets/img/hero_3.jpg" alt="Hero Image 3" />
+<img src="/assets/img/hero_3.jpg" alt="Hero Image 3" />
 
 ### My Path as a Doula
 
