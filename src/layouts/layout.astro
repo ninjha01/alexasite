@@ -3,8 +3,7 @@ import type { CollectionEntry } from "astro:content";
 import BaseHead from "../components/BaseHead.astro";
 import Footer from "../components/Footer.astro";
 import Header from "../components/Header.astro";
-
-type Props = CollectionEntry<"blog">["data"];
+import Hero from "../components/Hero.astro";
 
 const { title, description, heroImage } = Astro.props;
 const aStyles = ["text-teal-400", "underline"]
@@ -33,9 +32,10 @@ const proseStyles = [aStyles, pStyles, imgStyles, hStyles, strongStyles].join(
     <BaseHead title={title} description={description} />
   </head>
 
-  <body class="max-w-xl mx-auto px-6">
-    <Header />
-    <main class="prose">
+  <body class="">
+    <Hero />
+
+    <main class="prose max-w-3xl px-8 mx-auto">
       <article class={proseStyles}>
         <h1 class="title">{title}</h1>
         <hr />
